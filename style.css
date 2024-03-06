@@ -7,7 +7,7 @@
  
 body {
     background-color: #141414;
-    height: 188vh;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -22,7 +22,7 @@ div {
     border-radius: 12px;
 }
 
-h1, b, a{
+h1, b, a, p{
     color: #fff;
 }
 
